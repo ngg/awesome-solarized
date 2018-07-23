@@ -30,7 +30,7 @@ theme.colors.green   = "#859900"
 -- }}}
 
 -- {{{ Styles
-theme.font      = "Terminus 9"
+theme.font      = "Source Code Pro 8"
 
 -- {{{ Colors
 theme.fg_normal  = theme.colors.base1
