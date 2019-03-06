@@ -120,6 +120,11 @@ theme.titlebar_maximized_button_normal_active = theme.default_themes_path.."/def
 theme.titlebar_maximized_button_focus_inactive  = theme.default_themes_path.."/default/titlebar/maximized_focus_inactive.png"
 theme.titlebar_maximized_button_normal_inactive = theme.default_themes_path.."/default/titlebar/maximized_normal_inactive.png"
 -- }}}
+
+-- {{{ Naughty
+theme.notification_bg = theme.colors.base03
+theme.notification_fg = theme.colors.base1
+-- }}}
 -- }}}
 
 return theme
